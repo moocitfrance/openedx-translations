@@ -123,6 +123,7 @@
   "registration.username.label": "Nombre de usuario público",
   "registration.password.label": "Contraseña",
   "registration.country.label": "País/Región",
+  "registration.university.label": "Organización / Universidad de Procedencia",
   "registration.opt.in.label": "Acepto que {siteName} pueda enviarme mensajes de publicidad.",
   "help.text.name": "Este nombre se utilizará en los certificados que consigas.",
   "help.text.username.1": "El nombre que te identificará en tus cursos.",

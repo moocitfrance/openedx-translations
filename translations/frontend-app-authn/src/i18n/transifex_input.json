@@ -123,6 +123,7 @@
   "registration.username.label": "Public username",
   "registration.password.label": "Password",
   "registration.country.label": "Country/Region",
+  "registration.university.label": "University/Organization of origin",
   "registration.opt.in.label": "I agree that {siteName} may send me marketing messages.",
   "help.text.name": "This name will be used by any certificates that you earn.",
   "help.text.username.1": "The name that will identify you in your courses.",
