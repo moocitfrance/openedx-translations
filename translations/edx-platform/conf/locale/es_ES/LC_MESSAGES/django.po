@@ -3244,8 +3244,8 @@ msgid ""
 "successfully completed, received a passing grade, and was awarded this "
 "{platform_name} {certificate_type} Certificate of Completion in "
 msgstr ""
-"finalizado con éxito, recibido una calificación de aprobación y se le otorgó"
-" este {platform_name} {certificate_type} certificado de finalización en"
+"completó con éxito, recibió una calificación aprobatoria y fue galardonado con"
+" este {certificate_type} de {platform_name}"
 
 #. Translators: This text describes the purpose (and therefore, value) of a
 #. course certificate
