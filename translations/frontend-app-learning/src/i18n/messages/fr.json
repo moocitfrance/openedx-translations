@@ -477,6 +477,7 @@
   "courseOutline.incompleteUnit": "Unité incomplète",
   "discussions.sidebar.open.button": "Afficher le panneau de discussion",
   "learning.updates.title": "Annonces",
+  "learning.updates.title.defaultMessage": "Annonces",
   "learning.updates.loading": "Chargement des annonces...",
   "learning.updates.noUpdates": "Aucune annonce disponible.",
   "notification.sidebar.latestAnnouncement": "Dernière annonce"
