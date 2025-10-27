@@ -165,7 +165,7 @@
   "learning.social.shareEmail": "Partagez vos progrès par e-mail.",
   "learning.social.shareService": "Partagez vos progrès sur {service}.",
   "learn.course.tabs.navigation.overflow.menu": "Plus...",
-  "learning.upgradeButton.buttonText": "Mise à niveau pour {pricing}",
+  "learning.upgradeButton.buttonText": "Obtenir votre certificat ({pricing})",
   "learning.upgradeNowButton.buttonText": "Mettez vous à jour maintenant pour {pricing}",
   "learning.offer.screenReaderPrices": "Prix d'origine : {originalPrice}, prix réduit : {discountedPrice}",
   "learning.upgradeButton.screenReaderInlinePrices": "Prix original : {originalPrice}",
