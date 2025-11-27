@@ -140,6 +140,7 @@
   "invalid.country.field.error": "El país debe coincidir con una opción disponible en el menú desplegable.",
   "email.do.not.match": "Las direcciones de correo electrónico no coinciden.",
   "email.invalid.format.error": "Escribe una dirección de correo electrónico válida",
+  "email.domain.restricted.error": "El registro con este dominio de correo electrónico no está permitido",
   "username.validation.message": "El nombre de usuario debe tener entre 2 y 30 caracteres",
   "name.validation.message": "Escribe un nombre válido",
   "username.format.validation.message": "Los nombres de usuario solo pueden contener letras (AZ, az), números (0-9), guiones bajos (_) y guiones (-). Los nombres de usuario no pueden contener espacios",
