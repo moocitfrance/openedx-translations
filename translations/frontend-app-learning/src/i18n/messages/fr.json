@@ -27,7 +27,7 @@
   "learning.activeEnterprise.alert": "{changeActiveEnterprise}.",
   "learning.activeEnterprise.change.alert": "changer d'entreprise maintenant",
   "learning.outline.alert.start.short": "Le cours commence {timeRemaining} et se termine {courseStartTime}.",
-  "learning.outline.alert.start.long": "Le cours commence à {timeRemaining} sur {courseStartDate}.",
+  "learning.outline.alert.start.long": "Le cours commence {timeRemaining} le {courseStartDate}.",
   "learning.outline.alert.start.calendar": "N'oubliez pas d'ajouter un rappel de calendrier !",
   "instructorToolbar.pageBanner.courseHasNotStarted": "Cet apprenant n'a pas encore accès à ce cours. Le cours commence le {date}.",
   "learning.enrollment.alert": "Vous devez être inscrit au cours pour en voir le contenu.",
