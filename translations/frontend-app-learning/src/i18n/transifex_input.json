@@ -51,6 +51,8 @@
   "learning.generic.upsell.fullAccessBullet": "{fullAccessInBoldText} to course content and materials, even after the course ends",
   "learning.generic.upsell.supportMissionBullet.mission": "mission",
   "learning.generic.upsell.supportMissionBullet": "Support our {missionInBoldText} at {siteName}",
+  "masquerade-widget.viewCourseAs": "View this course as:",
+  "instructorToolbar.viewCourseIn": "View course in:",
   "tours.datesCheckpoint.body": "Important dates can help you stay on track.",
   "tours.datesCheckpoint.title": "Keep on top of key dates",
   "tours.outlineCheckpoint.body": "You can explore sections of the course using the outline below.",
