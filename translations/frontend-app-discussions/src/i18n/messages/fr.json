@@ -28,8 +28,8 @@
   "discussions.sidebar.removeKeywordsOnly": "Essayez de rechercher différents mots-clés",
   "discussions.sidebar.removeFilters": "Essayez de retirer certains filtres",
   "discussions.empty.iconAlt": "Vide",
-  "discussions.authors.label.staff": "Personnel",
-  "discussions.authors.label.moderator": "Assistant d'enseignement",
+  "discussions.authors.label.staff": "Équipe",
+  "discussions.authors.label.moderator": "Modérateur",
   "discussions.authors.label.ta": "Appel à l'action",
   "discussions.learner.loadMostPosts": "Charger plus de publications",
   "discussions.post.anonymous.author": "anonyme",
@@ -69,7 +69,7 @@
   "discussion.learner.posts": "Publications",
   "discussions.comments.comment.addComment": "Ajouter un commentaire",
   "discussions.comments.comment.addResponse": "Ajouter une réponse",
-  "discussions.comments.comment.abuseFlaggedMessage": "Contenu signalé au personnel pour examen",
+  "discussions.comments.comment.abuseFlaggedMessage": "Contenu signalé à l'équipe pour examen",
   "discussions.actions.back.alt": "Retour à la liste",
   "discussions.comments.comment.responseCount": "{num, plural, =0 {Aucune réponse} one {Affiche # réponse} other {Affiche # réponses} }",
   "discussions.comments.comment.endorsedResponseCount": "{num, plural, =0 {Aucune réponse approuvée} one {Affiche # réponse approuvée} other {Affiche # réponses approuvées} }",
@@ -216,5 +216,5 @@
   "discussions.posts.sort.lastActivity": "Activité récente",
   "discussions.posts.sort.commentCount": "Les plus actives",
   "discussions.posts.sort.voteCount": "Les plus aimées",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Toutes} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lues} statusFollowing {suivies} statusReported {signalées} statusUnanswered {sans réponses} statusUnresponded {non reepondues} other {{status}} } {type, select, discussion {discussions} question {questions} all {publications} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } sorted by {sort, select, lastActivityAt {activité récente} commentCount {les plus actives} voteCount {les plus aimées} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Toutes} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lues} statusFollowing {suivies} statusReported {signalées} statusUnanswered {sans réponses} statusUnresponded {non reepondues} other {{status}} } {type, select, discussion {discussions} question {questions} all {publications} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } par {sort, select, lastActivityAt {activité récente} commentCount {les plus actives} voteCount {les plus aimées} other {{sort}} }"
 }
