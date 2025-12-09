@@ -1740,7 +1740,7 @@ msgstr "État de votre réponse"
 
 #: templates/legacy/response/oa_response.html:245
 msgid "File Uploads "
-msgstr "Téléversements de fichiers"
+msgstr "Chargement de fichiers"
 
 #: templates/legacy/response/oa_response.html:253
 msgid ""
@@ -1756,7 +1756,7 @@ msgstr ""
 
 #: templates/legacy/response/oa_response.html:261
 msgid "We could not upload files"
-msgstr "Les fichiers n'ont pas pu être téléversés"
+msgstr "Les fichiers n'ont pas pu être chargés"
 
 #: templates/legacy/response/oa_response.html:267
 msgid "We could not delete files"
@@ -1773,15 +1773,15 @@ msgstr "Sélectionnez un fichier à envoyer pour cette soumission."
 
 #: templates/legacy/response/oa_response.html:280
 msgid "Supported file types: "
-msgstr "Types de fichiers pris en charge :"
+msgstr "Types de fichiers pris en charge: "
 
 #: templates/legacy/response/oa_response.html:285
 msgid "Upload files"
-msgstr "Téléverser les fichiers"
+msgstr "Charger les fichiers"
 
 #: templates/legacy/response/oa_response.html:287
 msgid "Upload file"
-msgstr "Téléverser un fichier"
+msgstr "Charger un fichier"
 
 #: templates/legacy/response/oa_response.html:304
 msgid "This is a team submission."
