@@ -113,6 +113,7 @@
   "learning.outline.welcomeMessage": "Message de bienvenue",
   "learning.outline.welcomeMessageShowMoreButton": "Afficher plus",
   "learning.outline.welcomeMessageShowLessButton": "Montrer moins",
+  "learning.outline.welcomeMessageClose": "Fermer",
   "learning.outline.goalWelcome": "Bienvenue à",
   "learning.proctoringPanel.status.notStarted": "Pas commencé",
   "learning.proctoringPanel.status.started": "Commencé",
