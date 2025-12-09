@@ -106,8 +106,8 @@
   "discussion.thread.notFound": "Sujet introuvable",
   "discussions.comment.sortFilterStatus": "{sort, select, false {plus ancien d'abord} true {plus récent d'abord} other {{sort}} }",
   "discussions.topics.sort.message": "Triées par {sortBy}",
-  "discussions.topics.sort.lastActivity": "Activité récente",
-  "discussions.topics.sort.commentCount": "Les plus actives",
+  "discussions.topics.sort.lastActivity": "Récents",
+  "discussions.topics.sort.commentCount": "Actifs",
   "discussions.topics.sort.courseStructure": "Structure du cours",
   "discussions.topics.unnamed.label": "Catégorie sans nom",
   "discussions.subtopics.unnamed.label": "Sous-catégorie sans nom",
@@ -213,8 +213,8 @@
   "discussions.posts.filter.myDiscussions": "Mes discussions",
   "discussions.posts.filter.myQuestions": "Mes questions",
   "discussions.posts.sort.message": "Triées par {sortBy}",
-  "discussions.posts.sort.lastActivity": "Activité récente",
-  "discussions.posts.sort.commentCount": "Les plus actives",
-  "discussions.posts.sort.voteCount": "Les plus aimées",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Toutes} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lues} statusFollowing {suivies} statusReported {signalées} statusUnanswered {sans réponses} statusUnresponded {non reepondues} other {{status}} } {type, select, discussion {discussions} question {questions} all {posts} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } par {sort, select, lastActivityAt {activité récente} commentCount {les plus actives} voteCount {les plus aimées} other {{sort}} }"
+  "discussions.posts.sort.lastActivity": "Récents",
+  "discussions.posts.sort.commentCount": "Actifs",
+  "discussions.posts.sort.voteCount": "Aimés",
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Toutes} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lues} statusFollowing {suivies} statusReported {signalées} statusUnanswered {sans réponses} statusUnresponded {non reepondues} other {{status}} } {type, select, discussion {discussions} question {questions} all {posts} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } par {sort, select, lastActivityAt {récents} commentCount {actifs} voteCount {aimés} other {{sort}} }"
 }
