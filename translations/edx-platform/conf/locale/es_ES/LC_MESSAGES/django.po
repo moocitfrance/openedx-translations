@@ -3232,7 +3232,7 @@ msgstr ""
 #: lms/djangoapps/certificates/views/webview.py:136
 #, python-brace-format
 msgid "{partner_short_name} {course_number} Certificate | {platform_name}"
-msgstr "{partner_short_name} {course_number} Certificado | {platform_name}"
+msgstr "{partner_short_name} {course_number} Credencial | {platform_name}"
 
 #. Translators:  This text fragment appears after the student's name
 #. (displayed in a large font) on the certificate
@@ -3245,7 +3245,7 @@ msgid ""
 "{platform_name} {certificate_type} Certificate of Completion in "
 msgstr ""
 "completó con éxito, recibió una calificación aprobatoria y fue galardonado con"
-" este {certificate_type} de {platform_name}"
+" este credencial"
 
 #. Translators: This text describes the purpose (and therefore, value) of a
 #. course certificate
@@ -3255,7 +3255,7 @@ msgid ""
 "{platform_name} acknowledges achievements through certificates, which are "
 "awarded for course activities that {platform_name} students complete."
 msgstr ""
-"{platform_name} reconoce los logros a través de certificados, los cuales se "
+"{platform_name} reconoce los logros a través de credencial, los cuales se "
 "otorgan para las actividades del curso que los estudiantes {platform_name} "
 "completan."
 
