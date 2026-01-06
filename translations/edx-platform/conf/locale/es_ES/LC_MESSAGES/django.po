@@ -3245,7 +3245,7 @@ msgid ""
 "{platform_name} {certificate_type} Certificate of Completion in "
 msgstr ""
 "completó con éxito, recibió una calificación aprobatoria y fue galardonado con"
-" este credencial"
+" este {platform_name} {certificate_type} credencial"
 
 #. Translators: This text describes the purpose (and therefore, value) of a
 #. course certificate
