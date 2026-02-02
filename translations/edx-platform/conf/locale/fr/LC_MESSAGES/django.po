@@ -11566,8 +11566,8 @@ msgstr "Indice ({hint_num} de {hints_count}) : "
 msgid ""
 "Your answers were previously saved. Click '{button_name}' to grade them."
 msgstr ""
-"Vos réponses ont déjà été enregistrées. Cliquez sur '{button_name}' pour les"
-" noter."
+"Votre réponse a été sauvegardée mais n'est pas notée. Cliquez sur '{button_name}' "
+" pour obtenir votre note"
 
 #: xmodule/capa_block.py:1387
 #, python-brace-format
@@ -11665,8 +11665,8 @@ msgid ""
 "Your answers have been saved but not graded. Click '{button_name}' to grade "
 "them."
 msgstr ""
-"Vos réponses ont été enregistrées, mais n’ont pas encore été notées. Cliquer"
-" sur '{button_name}' pour les noter."
+"Votre réponse est sauvegardée mais n'est pas encore notée. Pour finaliser votre réponse et obtenir votre note, "
+"cliquez sur '{button_name}'."
 
 #. Translators: 'closed' means the problem's due date has passed. You may no
 #. longer attempt to solve the problem.
