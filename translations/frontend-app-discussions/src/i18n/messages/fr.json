@@ -160,7 +160,7 @@
   "discussions.post.unfollow.description": "vous ne suivez pas ce message",
   "discussions.app.title": "Discussions",
   "discussions.posts.actionBar.searchAllPosts": "Recherche dans les messages",
-  "discussions.posts.actionBar.search": "{page, select, topics {Rechercher sujets} posts {Rechercher messages} learners {Rechercher apprenants} myPosts {Rechercher messages} other {{page}} }",  
+  "discussions.posts.actionBar.search": "{page, select, topics {Rechercher sujets} posts {Rechercher messages} learners {Rechercher apprenants} myPosts {Rechercher messages} other {{page}} }",
   "discussions.actionBar.searchInfo": "Affichage des résultats {count} pour \"{text}\"",
   "discussions.actionBar.searchRewriteInfo": "Aucun résultat trouvé pour \"{searchString}\". Affichage des résultats {count} pour \"{textSearchRewrite}\".",
   "discussions.actionBar.searchInfoSearching": "Recherche...",
@@ -207,7 +207,7 @@
   "discussions.posts.status.filter.unread": "Non lus",
   "discussions.posts.status.filter.following": "Suivis",
   "discussions.posts.status.filter.reported": "Signalés",
-  "discussions.posts.status.filter.unanswered": "Sans réponses",
+  "discussions.posts.status.filter.unanswered": "Non répondus",
   "discussions.posts.status.filter.unresponded": "Non répondus",
   "discussions.posts.filter.myPosts": "Mes messages",
   "discussions.posts.filter.myDiscussions": "Mes discussions",
@@ -216,5 +216,5 @@
   "discussions.posts.sort.lastActivity": "Récents",
   "discussions.posts.sort.commentCount": "Actifs",
   "discussions.posts.sort.voteCount": "Aimés",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Afficher} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lus} statusFollowing {suivis} statusReported {signalés} statusUnanswered {sans commentaires} statusUnresponded {non répondues} other {{status}} } {type, select, discussion {discussions} question {questions} all {messages} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } - {sort, select, lastActivityAt {récents} commentCount {actifs} voteCount {aimés} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Afficher} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lus} statusFollowing {suivis} statusReported {signalés} statusUnanswered {Non répondus} statusUnresponded {non répondues} other {{status}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } - {sort, select, lastActivityAt {récents} commentCount {actifs} voteCount {aimés} other {{sort}} }"
 }
