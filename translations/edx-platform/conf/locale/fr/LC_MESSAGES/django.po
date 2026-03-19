@@ -4166,7 +4166,7 @@ msgstr "Demander une attestation"
 
 #: lms/djangoapps/courseware/date_summary.py:488
 msgid "Verification Upgrade Deadline"
-msgstr "Date limite de mise à niveau de la vérification"
+msgstr "Date limite d'achat du certificat"
 
 #: lms/djangoapps/courseware/date_summary.py:500
 msgid ""
@@ -4181,9 +4181,9 @@ msgid ""
 "You are still eligible to upgrade to a Verified Certificate! Pursue it to "
 "highlight the knowledge and skills you gain in this course."
 msgstr ""
-"Vous êtes encore admissible à une mise à jour à une attestation! Obtenez-la "
-"pour mettre en évidence les connaissances et les compétences que vous aurez "
-"obtenues dans ce cours."
+"Vous avez validé votre parcours et vous souhaitez mettre en "
+"évidence les connaissances et les "
+"compétences acquises ?"
 
 #. Translators: This describes the time by which the user
 #. should upgrade to the verified track. 'date' will be
@@ -4212,7 +4212,7 @@ msgstr "Vérifier mon identité"
 
 #: lms/djangoapps/courseware/date_summary.py:565
 msgid "Missed Verification Deadline"
-msgstr "Date limite de vérification manquée"
+msgstr "Date limite d'achat du certificat dépassée"
 
 #: lms/djangoapps/courseware/date_summary.py:572
 msgid ""
@@ -26109,33 +26109,33 @@ msgstr "Re-vérification pour {course_name}"
 
 #: lms/templates/verify_student/missed_deadline.html:12
 msgid "Verification Deadline Has Passed"
-msgstr "La date limite de vérification est écoulée"
+msgstr "La date limite d'achat du certificat est passée"
 
 #: lms/templates/verify_student/missed_deadline.html:14
 msgid "Upgrade Deadline Has Passed"
-msgstr "La date limite de mise à niveau est écoulée"
+msgstr "La date limite d'achat est passée"
 
 #: lms/templates/verify_student/missed_deadline.html:27
 msgid ""
 "The verification deadline for {course_name} was {{date}}. Verification is no"
 " longer available."
 msgstr ""
-"La date limite de mise de vérification pour {course_name} était {{date}}. La"
-" vérification n'est plus disponible."
+"La date limite d'achat du certificat pour {course_name} était {{date}}. Si vous avez "
+"validé votre parcours, contactez-nous à mooc@cavilam.com pour acheter votre certificat."
 
 #: lms/templates/verify_student/missed_deadline.html:34
 msgid ""
 "The deadline to upgrade to a verified certificate for this course has "
 "passed."
-msgstr "La date limite pour une demande d'attestation est écoulée."
+msgstr "La date limite pour l'achat du certificat est passée."
 
 #: lms/templates/verify_student/pay_and_verify.html:16
 msgid "Upgrade Your Enrollment For {course_name}."
-msgstr "Mettre à niveau votre inscription pour {course_name}."
+msgstr "Acheter le certificat pour {course_name}."
 
 #: lms/templates/verify_student/pay_and_verify.html:18
 msgid "Verify For {course_name}"
-msgstr "Vérifié pour {course_name}"
+msgstr "Certificat pour {course_name}"
 
 #: lms/templates/verify_student/pay_and_verify.html:20
 msgid "Enroll In {course_name}"
