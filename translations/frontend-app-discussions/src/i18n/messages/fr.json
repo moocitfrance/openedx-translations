@@ -216,5 +216,5 @@
   "discussions.posts.sort.lastActivity": "Récents",
   "discussions.posts.sort.commentCount": "Actifs",
   "discussions.posts.sort.voteCount": "Aimés",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Afficher} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lus} statusFollowing {suivis} statusReported {signalés} statusUnanswered {Non répondus} statusUnresponded {non répondues} other {{status}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } - {sort, select, lastActivityAt {récents} commentCount {actifs} voteCount {aimés} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Afficher} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lus} statusFollowing {suivis} statusReported {signalés} statusUnanswered {Non répondus} statusUnresponded {non répondues} other {{status}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } {sort, select, lastActivityAt {récents} commentCount {actifs} voteCount {aimés} other {{sort}} }"
 }
