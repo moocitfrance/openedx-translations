@@ -207,8 +207,8 @@
   "discussions.posts.status.filter.unread": "Non lus",
   "discussions.posts.status.filter.following": "Suivis",
   "discussions.posts.status.filter.reported": "Signalés",
-  "discussions.posts.status.filter.unanswered": "Non répondus",
-  "discussions.posts.status.filter.unresponded": "Non répondus",
+  "discussions.posts.status.filter.unanswered": "Non approuvés",
+  "discussions.posts.status.filter.unresponded": "Non approuvés",
   "discussions.posts.filter.myPosts": "Mes messages",
   "discussions.posts.filter.myDiscussions": "Mes discussions",
   "discussions.posts.filter.myQuestions": "Mes questions",
@@ -216,5 +216,5 @@
   "discussions.posts.sort.lastActivity": "Récents",
   "discussions.posts.sort.commentCount": "Actifs",
   "discussions.posts.sort.voteCount": "Aimés",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Afficher} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lus} statusFollowing {suivis} statusReported {signalés} statusUnanswered {Non répondus} statusUnresponded {non répondues} other {{status}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } {sort, select, lastActivityAt {récents} commentCount {actifs} voteCount {aimés} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Afficher} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {non lus} statusFollowing {suivis} statusReported {signalés} statusUnanswered {non approuvés} statusUnresponded {non répondues} other {{status}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} }"
 }
