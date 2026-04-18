@@ -1353,7 +1353,7 @@ msgstr "Téléversé par"
 
 #: templates/legacy/oa_uploaded_file.html:16
 msgid "Files that were uploaded by you:"
-msgstr "Fichiers que vous avez téléchargés :"
+msgstr "Votre fiche pédagogique :"
 
 #: templates/legacy/oa_uploaded_file.html:48
 msgid ""
@@ -1773,7 +1773,7 @@ msgstr "Sélectionnez un fichier à envoyer pour cette soumission."
 
 #: templates/legacy/response/oa_response.html:280
 msgid "Supported file types: "
-msgstr "Types de fichiers pris en charge: "
+msgstr "Types de fichiers pris en charge : "
 
 #: templates/legacy/response/oa_response.html:285
 msgid "Upload files"
@@ -1879,11 +1879,11 @@ msgid ""
 " a grade of Incomplete. If you saved but did not submit a response, the "
 "response appears in the course records."
 msgstr ""
-"Le délai pour effectuer cette étape est dépassé. Cette étape est maintenant "
-"fermée. Vous ne pouvez plus soumettre une réponse ou continuer de travailler"
-" sur ce problème, vous recevrez la note \"incomplet\". Si vous avez "
-"sauvegardé mais pas soumis une réponse, la réponse apparaîtra dans les "
-"archives du cours."
+"L'échéance de cette étape est passée. Cette étape est maintenant "
+"fermée. Vous ne pouvez plus déposer "
+"votre fiche pédagogique, vous recevrez "
+"la note \"incomplet\"."
+
 
 #: templates/legacy/response/oa_response_graded.html:20
 #: templates/legacy/response/oa_response_submitted.html:20
