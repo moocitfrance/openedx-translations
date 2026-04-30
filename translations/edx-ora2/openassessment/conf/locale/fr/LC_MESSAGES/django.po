@@ -1601,7 +1601,7 @@ msgstr ""
 
 #: templates/legacy/response/oa_response.html:89
 msgid "Enter your response to the prompt."
-msgstr "Entrez votre réponse à la question."
+msgstr "Charger votre fiche pédagogique ci-dessous "
 
 #: templates/legacy/response/oa_response.html:92
 msgid ""
@@ -1617,7 +1617,7 @@ msgid ""
 "Your work will save automatically and you can return to complete your "
 "response at any time before the course ends "
 msgstr ""
-"Votre travail sera automatiquement sauvegardé et vous pourrez revenir "
+"Vous pourrez revenir "
 "compléter votre réponse à tout moment avant la fin du cours."
 
 #: templates/legacy/response/oa_response.html:96
@@ -1625,8 +1625,8 @@ msgid ""
 "Your work will save automatically and you can return to complete your "
 "response at any time before the due date "
 msgstr ""
-"Votre travail sera sauvegardé automatiquement et vous pourrez revenir "
-"compléter votre réponse à tout moment avant la date d'échéance."
+"avant "
+"le : "
 
 #: templates/legacy/response/oa_response.html:108
 msgid ""
@@ -1638,7 +1638,7 @@ msgstr ""
 
 #: templates/legacy/response/oa_response.html:110
 msgid "After you submit your response, you cannot edit it"
-msgstr "Après avoir soumis votre réponse, vous ne pouvez plus la modifier"
+msgstr "Après avoir soumis votre réponse, vous ne pourrez plus la modifier"
 
 #: templates/legacy/response/oa_response.html:120
 msgid "What will this assignment be graded on?"
