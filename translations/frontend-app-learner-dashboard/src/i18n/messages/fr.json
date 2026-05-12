@@ -103,7 +103,7 @@
   "learner-dash.courseCard.banners.viewGrades": "Afficher les notes.",
   "learner-dash.courseCard.banners.certReady": "Toutes nos félicitations. Votre certificat est prêt.",
   "learner-dash.courseCard.banners.viewCertificate": "Afficher le certificat.",
-  "learner-dash.courseCard.banners.certMinGrade": "Note requise pour un certificat : {minPassingGrade} ‏%",
+  "learner-dash.courseCard.banners.certMinGrade": "Note requise pour obtenir le certificat : {minPassingGrade} ‏%",
   "learner-dash.courseCard.banners.downloadCertificate": "Téléchargez le certificat.",
   "learner-dash.courseCard.banners.gradseAndCertReadyAfter": "Votre note et votre certificat seront prêts après {availableDate} .",
   "learner-dash.courseCard.banners.entitlementUnavailable": "Aucune séance n'est disponible pour le moment. L'équipe du cours créera prochainement de nouvelles sessions. Si aucune session n'apparaît, veuillez contacter {emailLink} pour plus d'informations.",
