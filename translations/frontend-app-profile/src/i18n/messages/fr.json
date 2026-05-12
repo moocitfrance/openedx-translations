@@ -1,0 +1,10 @@
+{
+  "learnerVariantDashboard.help.label": "Aide",
+  "learnerVariantDashboard.menu.profile.label": "Profil",
+  "learnerVariantDashboard.menu.account.label": "Compte",
+  "learnerVariantDashboard.menu.orderHistory.label": "Historique des commandes",
+  "learnerVariantDashboard.menu.signOut.label": "Se déconnecter",
+  "learnerVariantDashboard.course": "Mes cours",
+  "learnerVariantDashboard.program": "Programmes",
+  "learnerVariantDashboard.discoverNew": "Tous nos cours"
+}
