@@ -108,6 +108,7 @@
   "learner-dash.courseCard.banners.notEligibleForCert": "You are not eligible for a certificate.",
   "learner-dash.courseCard.banners.viewGrades": "View grades.",
   "learner-dash.courseCard.banners.certReady": "Congratulations. Your certificate is ready.",
+  "learner-dash.courseCard.banners.certificateGrade": "Certificate grade: {certificateGrade}‏%",
   "learner-dash.courseCard.banners.viewCertificate": "View Certificate.",
   "learner-dash.courseCard.banners.certMinGrade": "Grade required for a certificate: {minPassingGrade}‏%",
   "learner-dash.courseCard.banners.downloadCertificate": "Download Certificate.",
