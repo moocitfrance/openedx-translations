@@ -76,6 +76,8 @@
   "learner-dash.unenrollConfirm.reasons.prefer-not-to-say": "Je préfère ne pas répondre",
   "WidgetSidebar.lookingForChallengePrompt": "À la recherche d'un nouveau défi?",
   "WidgetSidebar.findCoursesButton": "Explorez nos cours {arrow}",
+  "WidgetSidebar.contactPrompt": "Vous souhaitez suivre d'autres formations ?",
+  "WidgetSidebar.contactButton": "Contactez-nous {arrow}",
   "Dashboard.NoCoursesView.lookingForChallengePrompt": "À la recherche d'un nouveau défi?",
   "Dashboard.NoCoursesView.exploreCoursesPrompt": "Explorez nos cours pour les ajouter à votre tableau de bord.",
   "Dashboard.NoCoursesView.exploreCoursesButton": "Explorer les cours",

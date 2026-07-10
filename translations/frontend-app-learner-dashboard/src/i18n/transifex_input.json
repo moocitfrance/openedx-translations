@@ -76,6 +76,8 @@
   "learner-dash.unenrollConfirm.reasons.prefer-not-to-say": "I prefer not to say",
   "WidgetSidebar.lookingForChallengePrompt": "Looking for a new challenge?",
   "WidgetSidebar.findCoursesButton": "Find a course {arrow}",
+  "WidgetSidebar.contactPrompt": "Would you like to take other courses?",
+  "WidgetSidebar.contactButton": "Contact us {arrow}",
   "Dashboard.NoCoursesView.lookingForChallengePrompt": "Looking for a new challenge?",
   "Dashboard.NoCoursesView.exploreCoursesPrompt": "Explore our courses to add them to your dashboard.",
   "Dashboard.NoCoursesView.exploreCoursesButton": "Explore courses",
