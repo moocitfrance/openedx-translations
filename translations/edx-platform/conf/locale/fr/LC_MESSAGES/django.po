@@ -27601,3 +27601,7 @@ msgstr "Placer votre texte de droits d'auteur ici!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Éditeur de code"
+
+#: lms/djangoapps/moocit_admin_panel/surveys/tabs.py:18
+msgid "Survey"
+msgstr "Enquêtes"
