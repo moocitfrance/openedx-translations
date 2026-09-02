@@ -243,7 +243,7 @@
   "progress.certificateStatus.viewableButton": "Voir mon certificat",
   "progress.certificateStatus.notAvailableHeader": "Statut du certificat",
   "progress.certificateBody.notAvailable.endDate": "Les notes finales et les certificats obtenus seront disponibles après {endDate}.",
-  "progress.certificateStatus.upgradeHeader": "Obtenir un certificat",
+  "progress.certificateStatus.upgradeHeader": "Acheter un passage d’examen",
   "progress.certificateStatus.upgradeBody": "Vous êtes dans une filière d'audit et n'avez pas droit à un certificat. Pour obtenir un certificat, mettez votre cours à niveau dès aujourd'hui.",
   "progress.certificateStatus.upgradeButton": "Mettre à niveau maintenant",
   "progress.certificateStatus.unverifiedHomeHeader.v2": "Vérifiez votre identité pour obtenir un certificat.",
